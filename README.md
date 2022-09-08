@@ -170,6 +170,6 @@ With a view to make a marketplace for the people, we have introduced the RAW.
 ![EXIT!](README_IMAGE/exit.PNG)
 
 
-********************************************ⒸAll Rights Reserved By "TEAM_DELTA"********************************************
+********************************************ⒸAll Rights Reserved By "TEAM_RAW"********************************************
 
 
