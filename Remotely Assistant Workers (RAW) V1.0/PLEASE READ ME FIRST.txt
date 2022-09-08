@@ -1,0 +1,42 @@
+###################################################################################################################
+##***************************************************************************************************************##
+##********************************** MUST BE READ THIS TEXT FILE BEFORE RUN RAW *********************************##
+##***************************************************************************************************************##
+###################################################################################################################
+
+=>NOTE: PLEASE ENSURE THAT YOUR CONSOLE BOX IS FULL SCREEN AND FONT SIZE '20' WITH FONT STYLE 'CONSOLAS'.
+
+=>NOTE: Make sure that you create a folder "raw" and move "raw.java" in that folderbecause it is a package in our project.
+
+=>NOTE: Run "start.java" file only in cmd.
+
+=>NOTE: AUTHORITY PASSWORD IS : passwordadmin
+
+=>It's not possible to change our adminstrator/authority password without program developer.
+
+################################### Simple description #########################################
+=> Here we use 7 class with 6800+ line of programming; 
+Raw's basic topics are file handling, access modifier, inheritance, abstract class, array list, exception handling.
+Raw's special features are 
+-> Job status(active, pending, completed) automatically changed with users work.
+-> Present time show.
+-> Verify gmail with Regular Expression
+-> Verify your password with some strong conditions.
+-> Multi color console and console clean.
+-> In every user input, user can go back to the previous page by entering blank input.
+-> User friendly loading system.
+-> User friendly sound system.
+-> Almost 97% to 99.99% bug less. 
+-> It's only a part of RAW. RAW 2.0 is coming soon with GUI system and more features.
+
+
+                                        ***We Are Always Ready For Your Help.***
+
+                                            ***YOUR SECURITY OUR PRIORITY***
+
+
+
+                                       "THANK YOU FOR BEING WITH US."    -TEAM DELTA
+
+                                             all right reserved by @team delta
+
