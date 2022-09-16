@@ -19,8 +19,11 @@ Thank you everyone.
 -------------------
 
  >> Any version of windows operating system.
+ 
  >> Notepad++
+ 
  >> Java should be installed. Make sure your JDK version is: jdk-18.0.2.1
+ 
  >> Microsoft SQL Server Management Studio 2014 or above.
 
 --------------------------
