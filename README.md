@@ -42,27 +42,31 @@ Thank you everyone.
 --------------
 
  >> First open "start.java" on Notepad++.
+ 
  >> Type cmd from your file location path.
+ 
  >> Type "javac start.java" on command prompt. Press enter.
+ 
  >> Then type "java start" on command prompt.
+ 
  >> Again press enter.
 
 --------------------
 | How to use "RAW" |
 --------------------
 
- >> NOTE: PLEASE ENSURE THAT YOUR CONSOLE BOX IS FULL SCREEN AND FONT SIZE '19' WITH FONT STYLE 'CONSOLAS'.
- >> RAW is designed with 3 types of users. Admin, Buyer and Seller.
- >> To get access to the authority access, you need to enter authority password: passwordadmin
- >> Some requirement for user password:
-	1 Capital word.
-	1 Small word.
-	1 Number.
-	1 Special character.
-	Password length must be 8 to 16.
- >> Some requirement for user Gmail: Must use a valid gmail address.
- >> Ypu can't create same type(seller, buyer) of account with a same mail.
- >> In every cases, user Name must be unique. You can not use a name that already have used before.
+	 1. NOTE: PLEASE ENSURE THAT YOUR CONSOLE BOX IS FULL SCREEN AND FONT SIZE '19' WITH FONT STYLE 'CONSOLAS'.
+	 2. RAW is designed with 3 types of users. Admin, Buyer and Seller.
+	 3. To get access to the authority access, you need to enter authority password: passwordadmin
+	 4. Some requirement for user password:
+		1 Capital word.
+		1 Small word.
+		1 Number.
+		1 Special character.
+		Password length must be 8 to 16.
+	 5. Some requirement for user Gmail: Must use a valid gmail address.
+	 6. Ypu can't create same type(seller, buyer) of account with a same mail.
+	 7. In every cases, user Name must be unique. You can not use a name that already have used before.
 
    Admin :
    
